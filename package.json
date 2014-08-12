@@ -1,0 +1,39 @@
+{
+  "name": "node-chtmlx",
+  "version": "0.0.0",
+  "description": "load chtmlx in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undoZen/node-chtmlx.git"
+  },
+  "keywords": [
+    "react",
+    "register",
+    "chtmlx",
+    "htmlx",
+    "coffee",
+    "coffeescript"
+  ],
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/node-chtmlx/issues"
+  },
+  "homepage": "https://github.com/undoZen/node-chtmlx",
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "tape": "^2.14.0"
+  },
+  "dependencies": {
+    "chtmlx": "^0.1.1"
+  }
+}
