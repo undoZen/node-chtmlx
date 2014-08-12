@@ -1,6 +1,6 @@
 {
   "name": "node-chtmlx",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "load chtmlx in node",
   "main": "index.js",
   "scripts": {
